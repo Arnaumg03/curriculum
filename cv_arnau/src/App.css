@@ -65,6 +65,7 @@ button:focus-visible {
   line-height: 1.05;
   letter-spacing: -0.02em;
   margin: 0 0 0.5rem;
+  color: var(--tinta);
 }
 
 .titulo {
@@ -145,6 +146,7 @@ button:focus-visible {
   line-height: 1.15;
   letter-spacing: -0.015em;
   margin: 0 0 0.75rem;
+  color: var(--tinta);
 }
 
 .contenido p {
