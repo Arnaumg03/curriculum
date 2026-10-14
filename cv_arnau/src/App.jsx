@@ -11,8 +11,8 @@ const perfil = {
   resumen:
       'Desarrollador full stack (React Native y Spring Boot) formado en TecnoCampus Mataró-Maresme (UPF). Conozco el sector de la hostelería desde dentro tras cinco años trabajando en él, y lo usé como punto de partida para construir mi TFG.',
   contacto: [
-    { etiqueta: 'Email', texto: 'tu@email.com', url: 'mailto:tu@email.com' },
-    { etiqueta: 'GitHub', texto: 'github.com/tuusuario', url: 'https://github.com/tuusuario' },
+    { etiqueta: 'Email', texto: 'arnaugranja@gmail.com', url: 'mailto:arnaugranja@gmail.com' },
+    { etiqueta: 'GitHub', texto: 'github.com/Arnaumg03', url: 'https://github.com/Arnaumg03' },
     { etiqueta: 'LinkedIn', texto: 'linkedin.com/in/tuusuario', url: 'https://linkedin.com/in/tuusuario' },
   ],
   tecnologias: ['React Native', 'Spring Boot', 'PostgreSQL', 'Java', 'JavaScript', 'REST API', 'JWT', 'Git'],
