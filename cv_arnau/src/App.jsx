@@ -62,8 +62,8 @@ const tfg = {
   ],
   // Pon los PDF en la carpeta /public con estos nombres (o cambia las rutas)
   documentos: [
-    { id: 'memoria', etiqueta: 'Memoria', archivo: '/tfg-memoria.pdf' },
-    { id: 'viabilidad', etiqueta: 'Estudio de viabilidad', archivo: '/tfg-viabilidad.pdf' },
+    { id: 'memoria', etiqueta: 'Memoria', archivo: '/TFG_Martingiol_Memoria.pdf' },
+    { id: 'viabilidad', etiqueta: 'Estudio de viabilidad', archivo: '/TFG_Martingiol_EstudiViabilitat.pdf' },
     // Cuando quieras añadir la presentación oral:
     // { id: 'presentacion', etiqueta: 'Presentación oral', archivo: '/tfg-presentacion.pdf' },
   ],
