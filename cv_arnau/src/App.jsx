@@ -60,16 +60,14 @@ const tfg = {
     'Mockito',
     'Kanban / Jira',
   ],
-  // Pon los PDF en la carpeta /public con estos nombres (o cambia las rutas)
+
   documentos: [
-    { id: 'memoria', etiqueta: 'Memoria', archivo: '/TFG_Martingiol_Memoria.pdf' },
-    { id: 'viabilidad', etiqueta: 'Estudio de viabilidad', archivo: '/TFG_Martingiol_EstudiViabilitat.pdf' },
-    // Cuando quieras añadir la presentación oral:
-    // { id: 'presentacion', etiqueta: 'Presentación oral', archivo: '/tfg-presentacion.pdf' },
+    { id: 'memoria', etiqueta: 'Memoria', archivo: '/public/TFG_Martingiol_Memoria.pdf' },
+    { id: 'viabilidad', etiqueta: 'Estudio de viabilidad', archivo: '/public/TFG_Martingiol_EstudiViabilitat.pdf' },
+    { id: 'presentacion', etiqueta: 'Presentación oral', archivo: '/public/DefensaTFG.pdf' },
   ],
 }
 
-/* ============================================================ */
 
 function App() {
   const [docActivo, setDocActivo] = useState(tfg.documentos[0].id)
