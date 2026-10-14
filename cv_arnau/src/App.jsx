@@ -13,25 +13,25 @@ const perfil = {
   contacto: [
     { etiqueta: 'Email', texto: 'arnaugranja@gmail.com', url: 'mailto:arnaugranja@gmail.com' },
     { etiqueta: 'GitHub', texto: 'github.com/Arnaumg03', url: 'https://github.com/Arnaumg03' },
-    { etiqueta: 'LinkedIn', texto: 'linkedin.com/in/tuusuario', url: 'https://linkedin.com/in/tuusuario' },
+    { etiqueta: 'LinkedIn', texto: 'linkedin.com/in/arnau-martín-giol', url: 'https://linkedin.com/in/arnau-martín-giol' },
   ],
   tecnologias: ['React Native', 'Spring Boot', 'PostgreSQL', 'Java', 'JavaScript', 'REST API', 'JWT', 'Git'],
 }
 
-// Tu otro proyecto personal (rellénalo con el que quieras destacar)
+// Tu otro proyecto personal
 const proyecto = {
-  nombre: 'Nombre de tu proyecto',
+  nombre: 'Frame Sound Studio',
   descripcion:
-      'Explica en dos o tres frases qué hace el proyecto, qué problema resuelve y cuál fue tu papel.',
+      'Web para generar imágenes de álbumes de artistas, con un script en Python que automatiza la creación de las imágenes. Lo desarrollé yo de principio a fin, desde el código hasta la publicación del sitio.',
   puntos: [
-    'Qué construiste tú (API, interfaz, base de datos...).',
-    'Algún resultado concreto: usuarios, rendimiento, tiempo ahorrado.',
-    'Un reto técnico que resolviste.',
+    'Script en Python que genera automáticamente imágenes de álbumes de artistas.',
+    'Sitio web publicado en framesoundstudio.com.',
+    'Proyecto propio: diseño, desarrollo y puesta en producción.',
   ],
-  tecnologias: ['Tecnología 1', 'Tecnología 2'],
+  tecnologias: ['Python', 'HTML', 'CSS', 'JavaScript'],
   enlaces: [
-    { texto: 'Ver código', url: 'https://github.com/tuusuario/tu-proyecto' },
-    // { texto: 'Ver demo', url: 'https://tu-proyecto.vercel.app' },
+    { texto: 'Ver web', url: 'https://framesoundstudio.com' },
+    // { texto: 'Ver código', url: 'https://github.com/Arnaumg03/tu-repositorio' },
   ],
 }
 
