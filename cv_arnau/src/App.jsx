@@ -62,9 +62,9 @@ const tfg = {
   ],
 
   documentos: [
-    { id: 'memoria', etiqueta: 'Memoria', archivo: '/public/TFG_Martingiol_Memoria.pdf' },
-    { id: 'viabilidad', etiqueta: 'Estudio de viabilidad', archivo: '/public/TFG_Martingiol_EstudiViabilitat.pdf' },
-    { id: 'presentacion', etiqueta: 'Presentación oral', archivo: '/public/DefensaTFG.pdf' },
+    { id: 'memoria', etiqueta: 'Memoria', archivo: '/TFG_Martingiol_Memoria.pdf' },
+    { id: 'viabilidad', etiqueta: 'Estudio de viabilidad', archivo: '/TFG_Martingiol_EstudiViabilitat.pdf' },
+    { id: 'presentacion', etiqueta: 'Presentación oral', archivo: '/DefensaTFG.pdf' },
   ],
 }
 
