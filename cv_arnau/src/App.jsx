@@ -62,8 +62,8 @@ const tfg = {
   ],
 
   documentos: [
-    { id: 'memoria', etiqueta: 'Memoria', archivo: '/TFG_Martingiol_Memoria.pdf' },
-    { id: 'viabilidad', etiqueta: 'Estudio de viabilidad', archivo: '/TFG_Martingiol_EstudiViabilitat.pdf' },
+    { id: 'memoria', etiqueta: 'Memoria', archivo: '/TFG_MartinGiol_Memoria.pdf' },
+    { id: 'viabilidad', etiqueta: 'Estudio de viabilidad', archivo: '/TFG_MartinGiol_EstudiViabilitat.pdf' },
     { id: 'presentacion', etiqueta: 'Presentación oral', archivo: '/DefensaTFG.pdf' },
   ],
 }
